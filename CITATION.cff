@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A correlation-scaled independence approximation for fork-join queues with general service times: a preregistered evaluation"
+authors:
+  - name: "Singularity"
+year: 2026
+url: "https://github.com/singularity-sd/fork-join-queues"
+license: MIT
